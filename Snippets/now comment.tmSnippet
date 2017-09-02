@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>`echo "$USER"` - `date`</string>
+	<key>name</key>
+	<string>now comment</string>
+	<key>tabTrigger</key>
+	<string>now</string>
+	<key>uuid</key>
+	<string>66268048-7F13-4AA6-A87B-15D50A280598</string>
+</dict>
+</plist>
