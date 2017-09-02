@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>`echo "$USER"` - `date`</string>
 	<key>name</key>
-	<string>now comment</string>
+	<string>Personal Timestamp</string>
 	<key>tabTrigger</key>
 	<string>now</string>
 	<key>uuid</key>

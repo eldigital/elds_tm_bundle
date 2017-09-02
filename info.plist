@@ -7,7 +7,8 @@
 	<key>contactName</key>
 	<string>Florian Eck</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>Helpful tools ELDS uses in their dev work.
+See .. for details</string>
 	<key>name</key>
 	<string>ELDSTools</string>
 	<key>uuid</key>

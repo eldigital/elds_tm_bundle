@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#= Model Description  (Replace with model name)
+#== Schema
+#
+#== Functionality
+
+#== Configuration
+
+#== Associations
+
+#== Plugins and modules
+#=== PlugIns
+#
+
+#=== include Modules
+#
+
+#== Konstanten
+#
+
+
+#== Validation
+# 
+
+#== Callbacks
+#
+</string>
+	<key>name</key>
+	<string>ActiceRecord Model Header</string>
+	<key>tabTrigger</key>
+	<string>arconf</string>
+	<key>uuid</key>
+	<string>D6549B87-EE4B-4B65-B4D2-D8CC0867D90E</string>
+</dict>
+</plist>
