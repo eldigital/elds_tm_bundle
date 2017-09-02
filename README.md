@@ -12,6 +12,36 @@ Here we are....
 
 ## Tab Trigger helpers
 
-#### now
+#### `now`
 Use the `now` tab trigger to insert something like `florianeck - Sat Sep  2 04:13:57 CEST 2017` at any point. We use this to make comments on codes trackable and other devs know who to ask if any questions occur
+
+#### `arconf`
+Adds a  section of comments to structure the head part of an AR model, works fine for us, improvements welcome.
+````
+    #= Model Description  (Replace with model name)
+    #== Schema
+    #
+    #== Functionality
+
+    #== Configuration
+
+    #== Associations
+
+    #== Plugins and modules
+    #=== PlugIns
+    #
+
+    #=== include Modules
+    #
+
+    #== Konstanten
+    #
+
+
+    #== Validation
+    # 
+
+    #== Callbacks
+    #
+````
 
