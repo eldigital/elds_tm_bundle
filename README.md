@@ -45,3 +45,5 @@ Adds a  section of comments to structure the head part of an AR model, works fin
     #
 ````
 
+#### `bpr`
+inserts a `binding.pry` where ever it is needed
