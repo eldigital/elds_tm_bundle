@@ -9,3 +9,9 @@ At first, we figured out the 'head' part of AR models always get messed up by st
 Also we wanted to keep track about comments on the code, who made them and why. Why? Because if somebody changes logic at this point, its likely that should up the comments about the method. If this happens, they should at least leave an info about who end when.
 All in all, not a big deal, but as the projects and teams grow, it got hard stick to these rules. that why we made it easy for everybody. A few simple tab triggers to follow -everything is fine.
 Here we are....
+
+## Tab Trigger helpers
+
+#### now
+Use the `now` tab trigger to insert something like `florianeck - Sat Sep  2 04:13:57 CEST 2017` at any point. We use this to make comments on codes trackable and other devs know who to ask if any questions occur
+
